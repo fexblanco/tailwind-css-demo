@@ -1,0 +1,28 @@
+{
+  "name": "tailwindcss-demo",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fexblanco/tailwindcss-demo.git"
+  },
+  "author": "fexblanco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fexblanco/tailwindcss-demo/issues"
+  },
+  "homepage": "https://github.com/fexblanco/tailwindcss-demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@storybook/addon-actions": "^6.1.17",
+    "@storybook/addon-essentials": "^6.1.17",
+    "@storybook/addon-links": "^6.1.17",
+    "@storybook/html": "^6.1.17",
+    "babel-loader": "^8.2.2"
+  },
+  "dependencies": {},
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  }
+}
