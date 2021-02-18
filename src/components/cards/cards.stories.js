@@ -1,5 +1,5 @@
 export default {
-  title: `Composition/Cards`,
+  title: `Component/Cards`,
   decorators: [],
   parameters: {
     backgrounds: {
